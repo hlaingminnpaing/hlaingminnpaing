@@ -18,18 +18,17 @@ Below you’ll find real-world projects, templates, and documentation from my cy
 WIP
 
 ### 📜 Certifications
-•	CISM ( ISACA )
-•	ISO/IEC 27001 Lead Implementer ( Intertek )
-•	CC ( ISC2 )
-•	EJPT ( eLearn Security )
-•	NSE 4 ( Fortinet )
-•	CCNA ( R&S, Security ) ( Cisco )
-•	EC Council Network Security Administrator ( EC Council )
-•	OCI Foundation Associate ( Oracle )
-•	Qualys Certified Specialist Vulnerability Management ( Qualys )
-•	Certified API Security Analyst ( API Security University )
-•	APISec Certified Practitioner ( API Security University )
-<img width="426" height="221" alt="image" src="https://github.com/user-attachments/assets/c9a39d22-6e3f-4191-bb63-546f2ccf4a60" />
+•	CISM ( ISACA ) <br>
+•	ISO/IEC 27001 Lead Implementer ( Intertek ) <br>
+•	CC ( ISC2 ) <br>
+•	EJPT ( eLearn Security ) <br>
+•	NSE 4 ( Fortinet ) <br>
+•	CCNA ( R&S, Security ) ( Cisco ) <br>
+•	EC Council Network Security Administrator ( EC Council ) <br>
+•	OCI Foundation Associate ( Oracle ) <br>
+•	Qualys Certified Specialist Vulnerability Management ( Qualys ) <br>
+•	Certified API Security Analyst ( API Security University ) <br>
+•	APISec Certified Practitioner ( API Security University ) <br>
 
 
 ### 📝 Blog
