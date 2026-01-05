@@ -4,7 +4,7 @@ Hi, I’m Hlaing Minn Paing ( Lumos ) — an Information Security professional s
   
 ✔️ Cloud & API Security  
 ✔️ Vulnerability Assessment & Remediation  
-✔️ Security Automation & DevSecOps(br)
+✔️ Security Automation & DevSecOps <br>
 ✔️ Information Security Management and GRC
 
 Welcome to my GitHub portfolio!  
