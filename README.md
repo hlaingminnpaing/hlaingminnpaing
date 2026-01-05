@@ -29,6 +29,8 @@ WIP
 •	Qualys Certified Specialist Vulnerability Management ( Qualys )
 •	Certified API Security Analyst ( API Security University )
 •	APISec Certified Practitioner ( API Security University )
+<img width="426" height="221" alt="image" src="https://github.com/user-attachments/assets/c9a39d22-6e3f-4191-bb63-546f2ccf4a60" />
+
 
 ### 📝 Blog
 WIP
