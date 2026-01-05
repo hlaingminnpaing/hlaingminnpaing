@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Hlaing Minn Paing
 
 🔐 **Cybersecurity & Information Security Manager**  
-🌏 Experience across Banking, Insurance & Telecom  
+🌏 Experience across Banking, Insurance, Telecom and Application Development industory.  
 🛡️ Focused on Security Governance, Risk and Compliance, Managing the VAPT, DevSecOps, Infrastructure Security
 
 ---
